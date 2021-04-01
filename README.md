@@ -1,4 +1,4 @@
-### Hi there 👋
+### Zachary
 
 <!--
 **Zachary-zm/Zachary-zm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-zm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=Zachary-zm&show_icons=true&theme=vue) 
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=Zachary-zm&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-zm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zachary-zm)](https://github.com/anuraghazra/github-readme-stats)
